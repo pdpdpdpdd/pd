@@ -1,1 +1,3 @@
-Please follow the cell in the Jupyter notebook and run the code.
+1. Jupyter lab opened
+2. runall code
+3. have problem2.csv upload as requested
